@@ -1,0 +1,20 @@
+# Streamlining IT Procurement using ServiceNow
+
+### Project Description:
+This project focuses on automating the IT procurement process in ServiceNow. Instead of manual workflow, we created a Flow that automatically creates a task for Hardware team when a user orders a Standard Laptop.
+
+### Phases Covered:
+**Phase 1 - Flow Creation:** Created Flow "Standard laptop task" with Service Catalog trigger and Create Catalog Task action.
+
+**Phase 2 - Flow Assignment:** Linked the Flow to Standard Laptop item in Maintain Items.
+
+**Phase 3 - Testing:** Tested by ordering a laptop, approved it, and verified task creation.
+
+### Files in this Repo:
+- Phase-1.md - Flow Creation Steps
+- Phase-2.md - Flow Assignment Steps  
+- Phase-3.md - Testing Steps
+- Screenshots (page1.png to page14.png)
+
+### Final Outcome:
+IT procurement is now fully automated and streamlined.
